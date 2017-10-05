@@ -33,9 +33,9 @@
 
 ### Projects
 
-* **Design Manager**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Light weight business management software customized for interior design.
+* **Design Tracker**
+	<a href=https://github.com/mazurbeam/DesignTracker class=not-printed>Github Link</a>
+	Web app for interior design business management.
 
 ------
 
