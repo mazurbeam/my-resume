@@ -49,9 +49,11 @@
 >	- Diagnosed and repaired computers in a fast paced/high volume repair shop 
 > 	- Had to keep detailed and up-to-date repair notes in a database.
 >   - Strong communication and teamwork were essential 
+>
 >**Chicago Surplus Computer** *Sales and Business Development* __2014__
 >	- Conducted sales with schools and businesses for refurbished computers
 >   - Setup and ran an ecommerce website using Shopify.
+>
 >**PC Rebuilders & Recyclers** *Technical Support* __2011 to 2014__
 >	- Provided remote technical support for the refurbished computers we sold
 >   - Designed and built a call tracking database using Microsoft Access.
