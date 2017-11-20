@@ -37,10 +37,11 @@
 
 **Certificate of Completion (Web Development)** __2017__
 	Coding Dojo, Bellevue, Washington
+	- Intensive 3 month program where I was taught and built applications using 3 full web development stacks: Python/Django, Javascript/MEAN, Java/Spring
 
 **Bachelors of Science (Computer Science)** __2008-2010__
 	Western Illinois University, Macomb, Illinois
-
+	- Completed 2 years of classes, learned the basics of OOP with Java.
 ------
 
 #### Experience
