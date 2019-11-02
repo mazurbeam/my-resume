@@ -1,0 +1,49 @@
+## Summary
+
+{{summary}}
+
+## Volunteer
+
+{{#volunteer}}
+### {{position}}, {{organization}}
+##### {{startDate}} - {{endDate}}
+
+{{summary}} {{&website}}
+
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+
+{{#volunteerHR}}
+---
+{{/volunteerHR}}
+{{/volunteer}}
+
+## Languages
+
+{{#languages}}
+### {{language}}
+##### Fluency: {{fluency}}
+
+{{#languagesHR}}
+---
+{{/languagesHR}}
+
+{{/languages}}
+
+## Interests
+
+{{#interests}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+
+{{#interestsHR}}
+---
+{{/interestsHR}}
+{{/interests}}
+
+## References
+{{#references}}
+> {{reference}}
+> **{{name}}**
+
+{{/references}}

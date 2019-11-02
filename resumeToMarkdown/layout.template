@@ -1,0 +1,71 @@
+{{#basics}}
+
+# {{name}}
+
+## Contact
+
+Email: [{{email}}](mailto:{{email}})  
+Website: {{&website}}
+Phone: {{phone}}
+
+{{#profiles}}
+{{network}} - [{{&url}}]({{&url}})  
+{{/profiles}}
+
+{{/basics}}
+
+## Work
+
+{{#work}}
+### {{position}}, {{company}}
+##### {{startDate}} - {{endDate}}
+{{summary}}
+{{#highlights}}
+* {{.}}
+{{/highlights}}
+
+{{#workHR}}
+---
+{{/workHR}}
+{{/work}}
+
+## Education
+
+{{#education}}
+### {{institution}} - {{studyType}}, {{area}}
+##### {{startDate}} - {{endDate}}
+
+GPA: {{gpa}}
+{{#courses}}
+* {{.}}
+{{/courses}}
+
+{{#educationHR}}
+---
+{{/educationHR}}
+{{/education}}
+
+## Projects
+
+{{#projects}}
+### {{name}}
+##### {{url}}
+
+{{summary}}
+
+{{#projectsHR}}
+---
+{{/projectsHR}}
+{{/projects}}
+
+## Skills
+
+{{#skills}}
+### {{name}} ({{#keywords}}{{.}}{{/keywords}})
+
+{{#skillsHR}}
+---
+{{/skillsHR}}
+{{/skills}}
+
+

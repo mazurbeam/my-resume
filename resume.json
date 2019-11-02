@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Walter Mazur",
+    "label": "Full Stack Developer",
+    "picture": "",
+    "email": "mazurbeam@gmail.com",
+    "phone": "(312) 965-2868",
+    "website": "http://www.mazurbeam.com",
+    "summary": "",
+    "location": {
+      "address": "603 3rd Ave W",
+      "postalCode": "98119",
+      "city": "Seattle",
+      "region": "WA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Walter Mazur",
+        "url": "https://www.linkedin.com/in/walter-mazur-02803453/"
+      },
+      {
+        "network": "Github",
+        "username": "mazurbeam",
+        "url": "https://github.com/mazurbeam/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Stackend Solutions",
+      "position": "Lead Developer",
+      "website": "http://www.stackendsolutions.com/",
+      "location": { "countryCode": "USA"},
+      "startDate": "2018-11-25",
+      "summary": "As Lead developer, I help out with a variety of projects any way I can.  In this role, I also recommended and implemented improvements to the overall web stack used as well as maintain the GitLab repositories. Technologies included: Python, Flask, Django, Java, Spring Boot, Postgres, MongoDB, JavaScript, React, Redux, Sass, Styled-components, Docker, Kubernetes, Docker-compose, GitLab",
+      "highlights": [
+        "Git management and collaboration",
+        "Gained experience with a modern web stack and deployment environment",
+        "Delegated tasks and lead the implementation of many new features"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Full Stack Developer",
+      "location": { "countryCode": "USA"},
+      "startDate": "2018-02-01",
+      "endDate": "2018-10-01",
+      "summary": "Worked on several projects acquired through freelancer.com, the primary one being a US college directory site built with Django.",
+      "highlights": [
+        "Mastered Django's ORM"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coding Dojo",
+      "area": "Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2017-06-18",
+      "endDate": "2017-09-30",
+      "summary": "Completed an intensive 12 week full­time web development program. including the introduction, implementation, and iteration of various web projects over 3 full stacks.",
+      "courses": [
+        "Python - Django",
+        "JavaScript - MEAN Stack",
+        "Java - Spring"
+      ]
+    },
+    {
+      "institution": "Western Illinois University",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "2008-08-01",
+      "endDate": "2010-05-25",
+      "summary": "Studied computer science for 2 years.",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Javascript",
+        "Python",
+        "Java",
+        "Typescript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "React.js",
+        "React Native",
+        "Redux",
+        "Sass",
+        "Less",
+        "Styled-Components"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "REST API",
+        "GraphQl",
+        "SQL",
+        "PostgreSQL",
+        "GIS",
+        "MongoDB",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Flask",
+        "Django",
+        "Wagtail CMS",
+        "Angular",
+        "Express.js",
+        "Spring Boot"
+      ]
+    },
+
+    {
+      "name": "Other",
+      "keywords": [
+        "Linux",
+        "Git / Gitlab",
+        "Docker",
+        "Kubernetes",
+        "Containers",
+        "AWS",
+        "IBM Cloud",
+        "Cypress Testing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Djagno/React Docker Stack",
+      "summary": "Modern web app boilerplate. Uses a Djagno/Postgres backend with React frontend and docker-compose for container orchestration.",
+      "highlights": [],
+      "keywords": ["Python","Javascript", "Django", "Postgres", "React.js", "Redux", "Docker"],
+      "url": "https://github.com/mazurbeam/django-react-docker",
+      "entity" : "",
+      "type" : "Personal"
+    }
+  ]
+}

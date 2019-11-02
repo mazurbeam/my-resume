@@ -1,62 +1,72 @@
-## Walter Mazur
-### Full Stack Web Developer
 
-> [linkedin](https://www.linkedin.com/in/walter-mazur-02803453/) | [github](https://github.com/mazurbeam)
-> Email: [mazurbeam@gmail.com](mailto:mazurbeam@gmail.com)
-> (312) 965-2868
-> Bellevue, WA
+# Walter Mazur
 
-------
+## Contact
 
-#### Technical Skills
+Email: [mazurbeam@gmail.com](mailto:mazurbeam@gmail.com)  
+Website: http://www.mazurbeam.com
+Phone: (312) 965-2868
 
-> **Languages**: Java, Javascript, Python, Solidity, HTML, CSS
-> **Frameworks**: Spring, Angular, Express, Django, Flask
-> **Databases**: MySQL, MongoDB, Firebase, IPFS
-> **Other Skills**: Git, AWS, Linux, Truffle,  
+LinkedIn - [https://www.linkedin.com/in/walter-mazur-02803453/](https://www.linkedin.com/in/walter-mazur-02803453/)  
+Github - [https://github.com/mazurbeam/](https://github.com/mazurbeam/)  
 
-------
 
-#### Selected Projects
+## Work
 
-* **Idea Wall** - <a href=https://github.com/mazurbeam/Idea-Wall class=not-printed>Github</a>
-	A Spring Boot app I built end-to-end where users post ideas and like other peoples ideas. Most popular ideas are displayed first.  
-	*Technologies Used:* Java, Spring Boot, MySQL, JSP
+### Lead Developer, Stackend Solutions
+##### 2018-11-25 - 
+As Lead developer, I help out with a variety of projects any way I can.  In this role, I also recommended and implemented improvements to the overall web stack used as well as maintain the GitLab repositories. Technologies included: Python, Flask, Django, Java, Spring Boot, Postgres, MongoDB, JavaScript, React, Redux, Sass, Styled-components, Docker, Kubernetes, Docker-compose, GitLab
+* Git management and collaboration
+* Gained experience with a modern web stack and deployment environment
+* Delegated tasks and lead the implementation of many new features
 
-* **Survey System** - <a href=https://github.com/mazurbeam/Survey-App class=not-printed>Github</a>
-	Full MEAN app I built end-to-end web app for creating and taking surveys.  
-	*Technologies Used:* JavaScript, Angular 4, Express, Node, MongoDB 
+---
+### Full Stack Developer, Freelance
+##### 2018-02-01 - 2018-10-01
+Worked on several projects acquired through freelancer.com, the primary one being a US college directory site built with Django.
+* Mastered Django&#39;s ORM
 
-* **Decentralized Ebay** - <a href=https://github.com/mazurbeam/ebay_dapp class=not-printed>Github</a>
-	This is a decentralized marketplace similar to ebay I've recently started building. Auctions will be handled by Ethereum smart contracts and images/text will be stored using the Interplanetary File System (IPFS).  
-	*Technologies Used:* Solidity, Javascript, Ethereum, Truffle Framework, IPFS
 
-------
+## Education
 
-#### Education
+### Coding Dojo - Bootcamp, Web Development
+##### 2017-06-18 - 2017-09-30
 
-**Certificate of Completion (Web Development)** __2017__
-	Coding Dojo, Bellevue, Washington
-	- Intensive 3 month program where I was taught and built applications using 3 full web development stacks: Python/Django, Javascript/MEAN, Java/Spring
+GPA: 
+* Python - Django
+* JavaScript - MEAN Stack
+* Java - Spring
 
-**Bachelors of Science (Computer Science)** __2008-2010__
-	Western Illinois University, Macomb, Illinois
-	- Completed 2 years of classes, learned the basics of OOP with Java.
-------
+---
+### Western Illinois University - , Computer Science
+##### 2008-08-01 - 2010-05-25
 
-#### Experience
+GPA: 
 
->**Micro Center** *Service Technician* __2016__
->	- Diagnosed and repaired computers in a fast paced/high volume repair shop 
-> 	- Had to keep detailed and up-to-date repair notes in a database.
->   - Strong communication and teamwork were essential 
->
->**Chicago Surplus Computer** *Sales and Business Development* __2014__
->	- Conducted sales with schools and businesses for refurbished computers
->   - Setup and ran an ecommerce website using Shopify.
->
->**PC Rebuilders & Recyclers** *Technical Support* __2011 to 2014__
->	- Provided remote technical support for the refurbished computers we sold
->   - Designed and built a call tracking database using Microsoft Access.
+
+## Projects
+
+### Djagno&#x2F;React Docker Stack
+##### https:&#x2F;&#x2F;github.com&#x2F;mazurbeam&#x2F;django-react-docker
+
+Modern web app boilerplate. Uses a Djagno&#x2F;Postgres backend with React frontend and docker-compose for container orchestration.
+
+
+## Skills
+
+### Languages (Javascript, Python, Java, Typescript, HTML5, CSS3)
+
+---
+### Frontend (React.js, React Native, Redux, Sass, Less, Styled-Components)
+
+---
+### Backend (REST API, GraphQl, SQL, PostgreSQL, GIS, MongoDB, Node.js)
+
+---
+### Frameworks (Flask, Django, Wagtail CMS, Angular, Express.js, Spring Boot)
+
+---
+### Other (Linux, Git &#x2F; Gitlab, Docker, Kubernetes, Containers, AWS, IBM Cloud, Cypress Testing)
+
 
 
